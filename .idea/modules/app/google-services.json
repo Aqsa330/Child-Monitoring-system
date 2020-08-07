@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "158564324321",
+    "firebase_url": "https://child-monitoring-app-fb908.firebaseio.com",
+    "project_id": "child-monitoring-app-fb908",
+    "storage_bucket": "child-monitoring-app-fb908.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158564324321:android:cbe04992815ce04e8fb8a0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158564324321-4bvdm8ps632lhqcaleldsf4p4ct9ad1e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "bbfc06b232e4e40d45bb6d7f1910712e171d32dc"
+          }
+        },
+        {
+          "client_id": "158564324321-vdkigbloievgosjkumim5fvrovu6mcbg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKhiICviNeUjAdTR2Ct06QvCd2PteQxcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158564324321-vdkigbloievgosjkumim5fvrovu6mcbg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

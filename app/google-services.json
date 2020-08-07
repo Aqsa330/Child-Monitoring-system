@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "683864460094",
+    "firebase_url": "https://child-monitor-cd40e.firebaseio.com",
+    "project_id": "child-monitor-cd40e",
+    "storage_bucket": "child-monitor-cd40e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683864460094:android:14f2e867bd083f2b347a6f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683864460094-3s8su6uiks1gcsq9sed26id9njss4p8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2xF_9-RYABZzGJjdhlt0XcHSNudVqKig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683864460094-3s8su6uiks1gcsq9sed26id9njss4p8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
