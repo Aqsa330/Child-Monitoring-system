@@ -42,11 +42,6 @@ fb.createUserWithEmailAndPassword(Email,Password).addOnCompleteListener(new OnCo
     @Override
     public void onComplete(@NonNull Task<AuthResult> task) {
 
-
-
-
-
-        int a=12;
         if(task.isSuccessful())
         {
             Toast.makeText(Register.this, "successfull", Toast.LENGTH_SHORT).show();
