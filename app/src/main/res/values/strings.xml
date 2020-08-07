@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcome_to_child_monitoring_app">Welcome To Child Monitoring App</string>
+    <string name="get_started">Get Started</string>
+    <string name="already_have_an_account">Already Have An Account?</string>
+    <string name="login">LOGIN</string>
+    <string name="this_app_helps_you_to_monitor_and_tracking_your_child">This app helps you to monitor and tracking your child.</string>
+    <string name="todo">TODO</string>
+    <string name="enter_password">Enter Password</string>
+
+    <string name="button">Button</string>
+    <string name="registration">REGISTRATION</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="name">Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_e_mail_address">Enter E-mail Address</string>
+</resources>
